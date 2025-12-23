@@ -1,10 +1,3 @@
-//
-//  RACCommandEX.h
-//  GMPopView_Example
-//
-//  Created by admin on 2025/11/19.
-//  Copyright © 2025 fanpeng. All rights reserved.
-//
 
 #import <ReactiveObjC/ReactiveObjC.h>
 

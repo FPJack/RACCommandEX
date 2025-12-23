@@ -1,10 +1,4 @@
-//
-//  RACCommandEX.m
-//  GMPopView_Example
-//
-//  Created by admin on 2025/11/19.
-//  Copyright © 2025 fanpeng. All rights reserved.
-//
+
 
 #import "RACCommandEX.h"
 @implementation EXDataType
