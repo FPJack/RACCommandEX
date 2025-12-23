@@ -1,0 +1,6 @@
+framework module RACCommandEX {
+  umbrella header "RACCommandEX-umbrella.h"
+
+  export *
+  module * { export * }
+}

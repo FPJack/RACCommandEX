@@ -1,13 +1,10 @@
 # RACCommandEX
 
-[![CI Status](https://img.shields.io/travis/fanpeng/RACCommandEX.svg?style=flat)](https://travis-ci.org/fanpeng/RACCommandEX)
-[![Version](https://img.shields.io/cocoapods/v/RACCommandEX.svg?style=flat)](https://cocoapods.org/pods/RACCommandEX)
-[![License](https://img.shields.io/cocoapods/l/RACCommandEX.svg?style=flat)](https://cocoapods.org/pods/RACCommandEX)
-[![Platform](https://img.shields.io/cocoapods/p/RACCommandEX.svg?style=flat)](https://cocoapods.org/pods/RACCommandEX)
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+扩展RACComand，内部数据和错误可以缓存，以及可以外部手动发送数据，在多个页面同一个请求时使用非常方便，多个页面同时出发请求只会请求一次，但是会共享同一次请求结果。
+
 
 ## Requirements
 

@@ -326,10 +326,12 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-RACCommandEX_Example/Pods-RACCommandEX_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/RACCommandEX/RACCommandEX.framework",
+				"${BUILT_PRODUCTS_DIR}/ReactiveObjC/ReactiveObjC.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RACCommandEX.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ReactiveObjC.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

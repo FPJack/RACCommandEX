@@ -7,7 +7,7 @@
 //
 
 #import "ZLAppDelegate.h"
-
+#import <RACCommandEX/RACCommandEX.h>
 @implementation ZLAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

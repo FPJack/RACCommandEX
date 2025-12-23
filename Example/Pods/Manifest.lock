@@ -1,0 +1,31 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - RACCommandEX (0.1.0):
+    - ReactiveObjC
+  - ReactiveObjC (3.1.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - RACCommandEX (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - ReactiveObjC
+
+EXTERNAL SOURCES:
+  RACCommandEX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  RACCommandEX: 14adc99d4db1489fcd0dac0ac6317eb5f7613a5a
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+
+PODFILE CHECKSUM: ccd040ca20f7a434de19294d7282342e55917fbc
+
+COCOAPODS: 1.16.2
