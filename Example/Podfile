@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'RACCommandEX_Example' do
+  pod 'RACCommandEX', :path => '../'
+
+  target 'RACCommandEX_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
